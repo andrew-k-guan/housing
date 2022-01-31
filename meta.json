@@ -1,0 +1,151 @@
+{
+	"MSA_Data": {
+		"San Francisco": {
+			"Counties": [
+				"San Francisco",
+				"San Mateo",
+				"Alameda",
+				"Contra Costa",
+				"Marin"
+			],
+			"Zillow_MSA": "San Francisco",
+			"Housing_Unit_MSA": "San Francisco"
+		},
+		"Santa Clara": {
+			"Counties": [
+				"Santa Clara",
+				"San Benito"
+			],
+			"Zillow_MSA": "San Jose",
+			"Housing_Unit_MSA": "San Jose"
+		},
+		"Austin": {
+			"Counties": [
+				"Travis",
+				"Bastrop",
+				"Caldwell",
+				"Hays",
+				"Williamson"
+			],
+			"Zillow_MSA": "Austin",
+			"Housing_Unit_MSA": "Austin"
+		},
+		"San Antonio": {
+			"Counties": [
+				"Bexar",
+				"Guadalupe",
+				"Comal"
+			],
+			"Zillow_MSA": "San Antonio",
+			"Housing_Unit_MSA": "San Antonio"
+		},
+		"Dallas": {
+			"Counties": [
+				"Dallas",
+				"Tarrant",
+				"Collin",
+				"Denton",
+				"Ellis"
+			],
+			"Zillow_MSA": "Dallas",
+			"Housing_Unit_MSA": "Dallas"
+		},
+		"Salt Lake City": {
+			"Counties": [
+				"Salt Lake",
+				"Toole"
+			],
+			"Zillow_MSA": "Salt Lake City",
+			"Housing_Unit_MSA": "Salt Lake City"
+		},
+		"Phoenix": {
+			"Counties": [
+				"Maricopa",
+				"Pinal"
+			],
+			"Zillow_MSA": "Phoenix",
+			"Housing_Unit_MSA": "Phoenix"
+		},
+		"Tampa": {
+			"Counties": [
+				"Hillsborough",
+				"Pinellas",
+				"Hernando",
+				"Pasco"
+			],
+			"Zillow_MSA": "Tampa",
+			"Housing_Unit_MSA": "Tampa"
+		},
+		"Jacksonville": {
+			"Counties": [
+				"Duval",
+				"St. Johns",
+				"Clay"
+			],
+			"Zillow_MSA": "Jacksonville",
+			"Housing_Unit_MSA": "Jacksonville",
+			"Housing_Unit_State": "NC"
+		},
+		"Atlanta": {
+			"Counties": [
+				"Fulton",
+				"Gwinnet",
+				"Cobb",
+				"DeKalb",
+				"Clayton",
+				"Cherokee"
+			],
+			"Zillow_MSA": "Atlanta",
+			"Housing_Unit_MSA": "Atlanta"
+		},
+		"Raleigh": {
+			"Counties": [
+				"Durham",
+				"Wake"
+			],
+			"Zillow_MSA": "Raleigh",
+			"Housing_Unit_MSA": "Raleigh"
+		},
+		"Charlotte": {
+			"Counties": [
+				"Macklenburg",
+				"York",
+				"Union",
+				"Gaston",
+				"Cabarrus",
+				"Iredell"
+			],
+			"Zillow_MSA": "Gastonia",
+			"Housing_Unit_MSA": "Gastonia"
+		},
+		"Nashville": {
+			"Counties": [
+				"Davidson",
+				"Rutherford",
+				"Williamson"
+			],
+			"Zillow_MSA": "Nashville",
+			"Housing_Unit_MSA": "Nashville"
+		},
+		"Seattle":{
+			"Counties": [
+				"King",
+				"Snohomish",
+				"Pierce"
+			],
+			"Zillow_MSA": "Seattle",
+			"Housing_Unit_MSA": "Seattle"
+		}
+	},
+	"Msas": [
+		"San Francisco",
+		"Santa Clara",
+		"Austin",
+		"Tampa",
+		"Jacksonville",
+		"Atlanta",
+		"Raleigh",
+		"Charlotte",
+		"Nashville"
+	]
+}
